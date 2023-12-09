@@ -17,4 +17,4 @@ This project Contains:
 - Reusable components 
 - Integration of third-party packages.
  
-Download this project and try it on android Or IOS device and give me your feed back :)
+Download this project and try it on android Or IOS device Or simply downloade [ToDoApp.apk](https://drive.google.com/file/d/1XJWnmMoghLsazdNC26CtnqRN7w2L9exs/view?usp=share_link) and give me your feed back :)
