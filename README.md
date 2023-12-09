@@ -1,16 +1,20 @@
-# todo_app
+# ToDo App ..
 
-A new Flutter project.
+Introduction : 
+This is a simple Flutter ToDo App with intuitive and visually appealing interface to manage your daily tasks which you can 
+READ, CREATE, UPDATE, DELETE your notes with your specific data like Note title, content, time & Date.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This App working with local Storage Currently But contains Network Storage Processing (API Service ) 
+**To implement them please check Up TODO section as they commented there
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project Contains:
+- Bloc as State Management and as Structure
+- shared preferences 
+- Dio
+- OOP and solid principles. 
+- Reusable components 
+- Integration of third-party packages.
+ 
+Download this project and try it on android Or IOS device and give me your feed back :)
